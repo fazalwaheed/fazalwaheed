@@ -3,10 +3,6 @@
 🚀 Software Engineering Student | MERN Stack Developer | Web Enthusiast
 I’m a passionate software engineering student focused on building modern, scalable, and user-friendly web applications. 
 I enjoy learning new technologies and turning ideas into real-world projects.
-<!--
-**fazalwaheed/fazalwaheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 What I’m Currently Doing
 Working on MERN Stack projects (MongoDB, Express, React, Node.js)
